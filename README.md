@@ -2,7 +2,7 @@
 
 A responsive online shopping website for **Sri Devibala Sarees**, a local Indian clothing and accessories retail shop. Customers browse products, add them to a cart, and send their order to the shop through a **prefilled WhatsApp message**.
 
-> **Status:** Project in development. The folder structure below is the **proposed structure** and may change as the project is built.
+> **Status:** Version 1.0 Implemented & Tested. Fully functioning React + Vite static boutique shopping website.
 > Product requirements are documented in [`USER_PRD.md`](./USER_PRD.md).
 
 ---
